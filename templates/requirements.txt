@@ -1,1 +1,12 @@
-flask
+﻿blinker
+click
+colorama
+distlib
+filelock
+Flask
+itsdangerous
+Jinja2
+MarkupSafe
+platformdirs
+virtualenv
+Werkzeug
